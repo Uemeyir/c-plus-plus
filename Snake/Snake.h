@@ -1,4 +1,4 @@
-// Copyright 2022 Uemeyir Hallac
+// Copyright 2022, Uemeyir Hallac
 
 #ifndef SNAKE_H_
 #define SNAKE_H_
